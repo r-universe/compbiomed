@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "animalcules"]
+	path = animalcules
+	url = https://github.com/compbiomed/animalcules
+	shallow = true
+	registered = true
+[submodule "ASSIGN"]
+	path = ASSIGN
+	url = https://github.com/compbiomed/assign
+	shallow = true
+	registered = true
+[submodule "singleCellTK"]
+	path = singleCellTK
+	url = https://github.com/compbiomed/singlecelltk
+	shallow = true
+	registered = true
