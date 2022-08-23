@@ -18,3 +18,8 @@
 	url = https://github.com/compbiomed/singlecelltk
 	shallow = true
 	registered = true
+[submodule "TBSignatureProfiler"]
+	path = TBSignatureProfiler
+	url = https://github.com/compbiomed/tbsignatureprofiler
+	shallow = true
+	registered = true
