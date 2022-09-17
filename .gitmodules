@@ -13,11 +13,6 @@
 	url = https://github.com/compbiomed/assign
 	shallow = true
 	registered = true
-[submodule "singleCellTK"]
-	path = singleCellTK
-	url = https://github.com/compbiomed/singlecelltk
-	shallow = true
-	registered = true
 [submodule "TBSignatureProfiler"]
 	path = TBSignatureProfiler
 	url = https://github.com/compbiomed/tbsignatureprofiler
