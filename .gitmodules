@@ -13,8 +13,3 @@
 	url = https://github.com/compbiomed/assign
 	shallow = true
 	registered = true
-[submodule "TBSignatureProfiler"]
-	path = TBSignatureProfiler
-	url = https://github.com/compbiomed/tbsignatureprofiler
-	shallow = true
-	registered = true
