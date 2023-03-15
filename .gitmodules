@@ -8,9 +8,9 @@
 	url = https://github.com/compbiomed/animalcules
 	shallow = true
 	registered = true
-[submodule "TBSignatureProfiler"]
-	path = TBSignatureProfiler
-	url = https://github.com/compbiomed/tbsignatureprofiler
+[submodule "ASSIGN"]
+	path = ASSIGN
+	url = https://github.com/compbiomed/assign
 	shallow = true
 	registered = true
 [submodule "singleCellTK"]
@@ -18,8 +18,8 @@
 	url = https://github.com/compbiomed/singlecelltk
 	shallow = true
 	registered = true
-[submodule "ASSIGN"]
-	path = ASSIGN
-	url = https://github.com/compbiomed/assign
+[submodule "TBSignatureProfiler"]
+	path = TBSignatureProfiler
+	url = https://github.com/compbiomed/tbsignatureprofiler
 	shallow = true
 	registered = true
