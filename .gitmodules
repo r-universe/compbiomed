@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "animalcules"]
-	path = animalcules
-	url = https://github.com/compbiomed/animalcules
 [submodule "ASSIGN"]
 	path = ASSIGN
 	url = https://github.com/compbiomed/assign
-[submodule "singleCellTK"]
-	path = singleCellTK
-	url = https://github.com/compbiomed/singlecelltk
 [submodule "TBSignatureProfiler"]
 	path = TBSignatureProfiler
 	url = https://github.com/compbiomed/tbsignatureprofiler
+[submodule "animalcules"]
+	path = animalcules
+	url = https://github.com/compbiomed/animalcules
+[submodule "singleCellTK"]
+	path = singleCellTK
+	url = https://github.com/compbiomed/singlecelltk
